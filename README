@@ -1,0 +1,12 @@
+**_ Collection Sales Tracker _**
+
+In it's current state, this program takes in a contract address and visualizes the latest 100 transactions on a scatter plot.
+A couple key pieces of tech that are used to achieve this are the Helius API and MatPlotLib.
+This is definitely more of a small feature, but I decided to build it out for fun so that one day I can come back to it and
+continue making it more robust. Perhaps it will one day be integrated in an app as a feature.
+
+Plans:
+
+- Make a Twitter sales bot out of the Helius API
+- Add some more graph options
+- Add the ability for user input to be given
