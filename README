@@ -1,4 +1,8 @@
-**_ Collection Sales Tracker _**
+**
+Created by Luke Kennedy
+**
+
+~ Collection Sales Tracker ~
 
 In it's current state, this program takes in a contract address and visualizes the latest 100 transactions on a scatter plot.
 A couple key pieces of tech that are used to achieve this are the Helius API and MatPlotLib.
